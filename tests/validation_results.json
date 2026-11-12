@@ -1,0 +1,9 @@
+{
+  "scope": "Mathematical building-block validation only. No empirical LLM or serving measurements.",
+  "hypergeom_exact_coverage_cases": 5200,
+  "nominal_alpha": 0.05,
+  "worst_exact_failure_probability": 0.0497737556561086,
+  "pathwise_transfer_cases": 5100,
+  "mixed_error_contract_cases": 10000,
+  "status": "passed"
+}

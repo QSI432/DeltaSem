@@ -1,0 +1,5 @@
+{"op": "insert", "identity": "a-v1", "semantic_key": "a", "weight": 3, "group": "reviews", "preimage": "{\"label\":1}"}
+{"op": "insert", "identity": "b-v1", "semantic_key": "b", "weight": 2, "group": "reviews", "preimage": "{\"label\":0}"}
+{"op": "publish", "epsilon": 0.05, "batch": 2}
+{"op": "delete", "identity": "a-v1"}
+{"op": "publish", "epsilon": 0.05, "batch": 2}

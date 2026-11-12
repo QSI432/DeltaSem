@@ -1,0 +1,10 @@
+{
+  "scope": "Focused deterministic guard and persistence checks only. No LLM or system-performance measurements.",
+  "topk_boundary_cases": 12,
+  "invalid_topk_sizes": "rejected",
+  "partial_reinsertion_slice": "rejected with IncompatibleSliceFrame",
+  "bounded_leaf_fallback": "valid",
+  "global_budget_commit_restart_persistence": "passed",
+  "original_validation_reports": "unchanged",
+  "status": "passed"
+}

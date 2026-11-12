@@ -1,0 +1,10 @@
+{
+  "scope": "Anchored interval-algebra tests on fixed oracle tapes. No empirical LLM or serving measurements.",
+  "adaptive_version_transition_checks": 9600,
+  "retrospective_deletion_refinement": "passed",
+  "exact_promotion_nonshrinking_case": "passed",
+  "cancelling_occurrence_deltas": "passed",
+  "certified_disjoint_retraction_slice": "passed",
+  "immutable_occurrence_guard": "passed",
+  "status": "passed"
+}
