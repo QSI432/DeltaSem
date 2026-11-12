@@ -1,4 +1,4 @@
-# DeltaSem: Certified Incremental Maintenance for LLM-Powered Semantic Join Analytics
+# DeltaSem
 
 This repository contains the source code for the paper:
 
