@@ -95,4 +95,3 @@ The final guard script expects the two preceding validation reports. Tests cover
 
 - [SciPy hypergeometric distribution](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.hypergeom.html)
 - W. Hoeffding. Probability Inequalities for Sums of Bounded Random Variables. JASA, 1963. [DOI](https://doi.org/10.1080/01621459.1963.10500830).
-
